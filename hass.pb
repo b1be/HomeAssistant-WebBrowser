@@ -164,18 +164,3 @@ DataSection
   logo:
   IncludeBinary "logo.png"  
 EndDataSection
-; IDE Options = PureBasic 6.21 (Windows - x86)
-; CursorPosition = 135
-; FirstLine = 107
-; Folding = -
-; Optimizer
-; EnableThread
-; EnableXP
-; DPIAware
-; SharedUCRT
-; EnableOnError
-; UseIcon = logo.ico
-; Executable = HassIOx86C.exe
-; CompileSourceDirectory
-; Compiler = PureBasic 6.21 - C Backend (Windows - x64)
-; EnablePurifier
